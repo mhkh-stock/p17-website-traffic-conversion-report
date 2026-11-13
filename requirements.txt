@@ -1,0 +1,4 @@
+# Pinned to the exact versions that built this delivery (verified Nov 2026).
+openpyxl==3.1.2
+reportlab==5.0.1
+matplotlib==3.6.3

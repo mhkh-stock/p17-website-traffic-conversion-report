@@ -1,0 +1,271 @@
+{
+  "shop": "CityStore.pk (SAMPLE)",
+  "period": "2026-05-01 to 2026-10-31",
+  "days": 184,
+  "total_sessions": 202793,
+  "total_users": 150351,
+  "total_purchases": 4475,
+  "total_revenue_pkr": 12910349,
+  "overall_conversion_rate_pct": 2.21,
+  "avg_order_value_pkr": 2885,
+  "sessions_per_day": 1102.1,
+  "funnel": {
+    "sessions": 202793,
+    "product_views": 119691,
+    "add_to_cart": 14452,
+    "checkout_started": 7071,
+    "purchases": 4475
+  },
+  "funnel_rates_pct": {
+    "views_rate_pct": 59.02,
+    "cart_rate_pct": 12.07,
+    "checkout_rate_pct": 48.93,
+    "purchase_rate_pct": 63.29
+  },
+  "channels": [
+    {
+      "channel": "Organic Search",
+      "sessions": 64911,
+      "users": 48296,
+      "purchases": 1628,
+      "revenue_pkr": 4648671,
+      "share_pct": 32.01,
+      "conversion_rate_pct": 2.51,
+      "avg_order_value_pkr": 2855
+    },
+    {
+      "channel": "Social",
+      "sessions": 40544,
+      "users": 30041,
+      "purchases": 459,
+      "revenue_pkr": 1080756,
+      "share_pct": 19.99,
+      "conversion_rate_pct": 1.13,
+      "avg_order_value_pkr": 2355
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 36506,
+      "users": 26997,
+      "purchases": 1095,
+      "revenue_pkr": 3465351,
+      "share_pct": 18.0,
+      "conversion_rate_pct": 3.0,
+      "avg_order_value_pkr": 3165
+    },
+    {
+      "channel": "Direct",
+      "sessions": 28420,
+      "users": 21055,
+      "purchases": 585,
+      "revenue_pkr": 1553520,
+      "share_pct": 14.01,
+      "conversion_rate_pct": 2.06,
+      "avg_order_value_pkr": 2656
+    },
+    {
+      "channel": "Referral",
+      "sessions": 16230,
+      "users": 11994,
+      "purchases": 231,
+      "revenue_pkr": 518968,
+      "share_pct": 8.0,
+      "conversion_rate_pct": 1.42,
+      "avg_order_value_pkr": 2247
+    },
+    {
+      "channel": "Email",
+      "sessions": 16182,
+      "users": 11968,
+      "purchases": 477,
+      "revenue_pkr": 1643083,
+      "share_pct": 7.98,
+      "conversion_rate_pct": 2.95,
+      "avg_order_value_pkr": 3445
+    }
+  ],
+  "best_channel_by_conversion": "Paid Search",
+  "best_channel_conversion_pct": 3.0,
+  "worst_channel_by_conversion": "Social",
+  "worst_channel_conversion_pct": 1.13,
+  "months": [
+    {
+      "month": "2026-05",
+      "sessions": 32139,
+      "users": 23860,
+      "purchases": 701,
+      "revenue_pkr": 2029953,
+      "conversion_rate_pct": 2.18,
+      "mom_growth_pct": null
+    },
+    {
+      "month": "2026-06",
+      "sessions": 31601,
+      "users": 23329,
+      "purchases": 697,
+      "revenue_pkr": 2010379,
+      "conversion_rate_pct": 2.21,
+      "mom_growth_pct": -0.96
+    },
+    {
+      "month": "2026-07",
+      "sessions": 33440,
+      "users": 24783,
+      "purchases": 738,
+      "revenue_pkr": 2142270,
+      "conversion_rate_pct": 2.21,
+      "mom_growth_pct": 6.56
+    },
+    {
+      "month": "2026-08",
+      "sessions": 34805,
+      "users": 25763,
+      "purchases": 776,
+      "revenue_pkr": 2224324,
+      "conversion_rate_pct": 2.23,
+      "mom_growth_pct": 3.83
+    },
+    {
+      "month": "2026-09",
+      "sessions": 34393,
+      "users": 25585,
+      "purchases": 757,
+      "revenue_pkr": 2176363,
+      "conversion_rate_pct": 2.2,
+      "mom_growth_pct": -2.16
+    },
+    {
+      "month": "2026-10",
+      "sessions": 36415,
+      "users": 27031,
+      "purchases": 806,
+      "revenue_pkr": 2327060,
+      "conversion_rate_pct": 2.21,
+      "mom_growth_pct": 6.92
+    }
+  ],
+  "best_month": {
+    "month": "2026-10",
+    "revenue_pkr": 2327060,
+    "sessions": 36415
+  },
+  "worst_month": {
+    "month": "2026-06",
+    "revenue_pkr": 2010379,
+    "sessions": 31601
+  },
+  "growth_may_to_oct_pct": 14.64,
+  "landing_pages": [
+    {
+      "landing_page": "/",
+      "sessions": 44614,
+      "purchases": 976,
+      "revenue_pkr": 2720205,
+      "share_pct": 22.0,
+      "conversion_rate_pct": 2.19
+    },
+    {
+      "landing_page": "/mobile-phones",
+      "sessions": 32300,
+      "purchases": 769,
+      "revenue_pkr": 2678654,
+      "share_pct": 15.93,
+      "conversion_rate_pct": 2.38
+    },
+    {
+      "landing_page": "/sale",
+      "sessions": 28438,
+      "purchases": 810,
+      "revenue_pkr": 2032786,
+      "share_pct": 14.02,
+      "conversion_rate_pct": 2.85
+    },
+    {
+      "landing_page": "/fashion/men",
+      "sessions": 24423,
+      "purchases": 440,
+      "revenue_pkr": 1165181,
+      "share_pct": 12.04,
+      "conversion_rate_pct": 1.8
+    },
+    {
+      "landing_page": "/fashion/women",
+      "sessions": 22286,
+      "purchases": 425,
+      "revenue_pkr": 1185035,
+      "share_pct": 10.99,
+      "conversion_rate_pct": 1.91
+    },
+    {
+      "landing_page": "/home-kitchen",
+      "sessions": 20254,
+      "purchases": 375,
+      "revenue_pkr": 1097757,
+      "share_pct": 9.99,
+      "conversion_rate_pct": 1.85
+    },
+    {
+      "landing_page": "/beauty",
+      "sessions": 16189,
+      "purchases": 345,
+      "revenue_pkr": 818352,
+      "share_pct": 7.98,
+      "conversion_rate_pct": 2.13
+    },
+    {
+      "landing_page": "/electronics",
+      "sessions": 14289,
+      "purchases": 335,
+      "revenue_pkr": 1212379,
+      "share_pct": 7.05,
+      "conversion_rate_pct": 2.34
+    }
+  ],
+  "best_landing_page": "/sale",
+  "best_landing_page_cr_pct": 2.85,
+  "worst_landing_page": "/fashion/men",
+  "worst_landing_page_cr_pct": 1.8,
+  "devices": [
+    {
+      "device": "Mobile",
+      "sessions": 140130,
+      "purchases": 2845,
+      "revenue_pkr": 7701685,
+      "share_pct": 69.1,
+      "conversion_rate_pct": 2.03
+    },
+    {
+      "device": "Desktop",
+      "sessions": 51423,
+      "purchases": 1443,
+      "revenue_pkr": 4728818,
+      "share_pct": 25.36,
+      "conversion_rate_pct": 2.81
+    },
+    {
+      "device": "Tablet",
+      "sessions": 11240,
+      "purchases": 187,
+      "revenue_pkr": 479846,
+      "share_pct": 5.54,
+      "conversion_rate_pct": 1.66
+    }
+  ],
+  "weekend": {
+    "days": 80,
+    "sessions": 96789,
+    "purchases": 2160,
+    "revenue_pkr": 6219278,
+    "sessions_per_day": 1209.9,
+    "conversion_rate_pct": 2.23
+  },
+  "weekday": {
+    "days": 104,
+    "sessions": 106004,
+    "purchases": 2315,
+    "revenue_pkr": 6691071,
+    "sessions_per_day": 1019.3,
+    "conversion_rate_pct": 2.18
+  },
+  "weekend_lift_pct": 18.7
+}
